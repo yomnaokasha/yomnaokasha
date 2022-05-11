@@ -12,7 +12,7 @@ I'm a Wife, Mother and Developer:
 - 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/yomna-okasha-004645146/">
-  <img align="left" alt="yomna's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="yomna's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ### Languages and Tools:
