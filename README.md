@@ -1,8 +1,5 @@
 ### Hello World, I'm Yomna 👋
 
-<!--
-**yomnaokasha/yomnaokasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a Wife, Mother and Developer::
 
 - 🔭 I’m currently working on personal project.
