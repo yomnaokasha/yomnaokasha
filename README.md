@@ -1,5 +1,7 @@
 ### Hello World, I'm Yomna 👋
 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ 
 I'm a Wife, Mother and Developer:
 
 - 🔭 I’m currently working on personal project.
