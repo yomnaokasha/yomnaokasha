@@ -13,8 +13,8 @@ I'm a Wife, Mother and Developer:
 ### Connect with me:
 <a href="https://www.linkedin.com/in/yomna-okasha-004645146/">
 <img align="left" alt="yomna's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-
-
+<br />
+  
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
